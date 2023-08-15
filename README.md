@@ -8,6 +8,6 @@
 
 Nesta 1ª Etapa do processo trainee, foram estudados conteúdos básicos de ciência de dados, python, redução de dimensionalidade de datasets e alguns algoritmos de machine learning, como k-means, regressão linear e regressão logística.
 
-O desafio proposto foi aplicar o conhecimento obtido com base nas orientações e sugestões presentes no [Guia do 1º Período](./PeriodoT1/Trainee%20-%201%C2%BA%20Per%C3%ADodo.pdf) e o trabalho realizado em cima dessas orientações se encontra [neste notebook](./Trainee/1%C2%BA%20Per%C3%ADodo/notebook.ipynb).
+O desafio proposto foi aplicar o conhecimento obtido com base nas orientações e sugestões presentes no [Guia do 1º Período](./PeriodoT1/Trainee%20-%201%C2%BA%20Per%C3%ADodo.pdf) e o trabalho realizado em cima dessas orientações se encontra [neste notebook](./PeriodoT1/notebook.ipynb).
 
 
